@@ -3,6 +3,21 @@
   --default-font-family: "Roboto Slab", serif;
 }
 
+@media (max-width: 900px) {
+  h1 {
+    font-size: 16px;
+  }
+  h2 {
+    font-size: 14px;
+  }
+  .top-title {
+    max-width: 800px;
+  }
+  img {
+    max-width: 200px;
+  }
+}
+
 h1 {
   color: pink;
   font-family: var(--default-font-family);
