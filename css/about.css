@@ -73,7 +73,3 @@ footer {
   padding: 30px;
   margin: 10px;
 }
-
-@media (max-width=500px) {
-  text-align: center;
-}
