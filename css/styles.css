@@ -90,4 +90,5 @@ footer {
   background-color: #e9f7f7;
   padding: 30px;
   margin: 10px;
+  flex-wrap: wrap;
 }
