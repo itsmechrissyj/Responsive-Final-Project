@@ -68,3 +68,16 @@ img {
 .navbar {
   font-family: var(--default-font-family);
 }
+
+footer {
+  text-align: center;
+  font-size: 24px;
+  text-decoration: none;
+  font-family: var(--default-font-family);
+}
+
+.social-icons {
+  font-size: 30px;
+  color: var(--branding-color);
+  word-spacing: 30px;
+}
