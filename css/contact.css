@@ -1,0 +1,36 @@
+:root {
+  --branding-color: #5bc2c2;
+  --default-font-family: "Roboto Slab", serif;
+}
+
+@media (max-width: 900px) {
+  h1 {
+    font-size: 16px;
+  }
+  h2 {
+    font-size: 14px;
+  }
+
+  img {
+    max-width: 350px;
+  }
+}
+
+h1 {
+  color: pink;
+  font-family: var(--default-font-family);
+  text-align: center;
+  padding-top: 30px;
+}
+
+h2 {
+  color: darkmagenta;
+  font-family: "Quicksand", sans-serif;
+  font-weight: bolder;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+a {
+  text-align: center;
+}
