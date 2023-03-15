@@ -64,3 +64,7 @@ img {
   padding: 30px;
   margin: 20px 40px 20px 40px;
 }
+
+.navbar {
+  font-family: var(--default-font-family);
+}

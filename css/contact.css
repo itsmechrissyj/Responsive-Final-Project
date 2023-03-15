@@ -35,3 +35,7 @@ h2 {
   display: block;
   text-align: center;
 }
+
+.navbar {
+  font-family: var(--default-font-family);
+}

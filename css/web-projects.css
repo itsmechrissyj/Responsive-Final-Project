@@ -49,3 +49,7 @@ h2 {
   padding: 20px 0px 20px 0px;
   background-color: var(--branding-color);
 }
+
+.navbar {
+  font-family: var(--default-font-family);
+}
